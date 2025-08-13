@@ -1,11 +1,11 @@
-# # Node modules
-# node_modules/
+# Node modules
+node_modules/
 
-# # Environment Variables
-# .env
+# Environment Variables
+.env
 
-# # Logs
-# *.log
+# Logs
+*.log
 
-# # Build output
-# dist/
+# Build output
+dist/
